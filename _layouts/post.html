@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+<div id="code"></div>
+
+<script type="text/javascript">
+  $("#code").qrcode({
+    width: 150,
+    height: 150,
+    text: "http:{{ site.url }}{{ page.url }}"
+  });
+</script>
 <div class="container">
     <div class="col-md-9 col-content">
         <div id="post-content" class="panel panel-pithy post">
