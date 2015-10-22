@@ -1,8 +1,8 @@
 ---
 layout: page
 title: My paper
-id: id_about_me
-permalink: /about/
+id: id_my_paper
+permalink: /paper/
 ---
 
 CRISPR Inversion of CTCF Sites Alters Genome Topology and Enhancer/Promoter Function
