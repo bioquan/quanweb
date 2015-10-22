@@ -9,19 +9,20 @@ permalink: /about/
 
 我的格言
 ===
-> 坚持自己的信仰，坚信每一个人都有蜕变的哪一刻。
+> 有志者事竟成;苦心人天不负!
 
 自我介绍
 ===
-90后刚入道的程序员一枚，热爱WEB前端，喜欢旅游和运动。梦想着能慢慢成长为一个小有成就的前端工程师。付出自己的努力，坚信梦想不只是梦。
+励志做学生物的程序员。
 
 教育经历
 ===
-攀枝花学院(Panzhihua University)  2011~2015
+湖南师范大学(Hunan Normal University)  2008~2012  
+上海交通大学(Shanghai Jiao Tong University)  2013～
 
 联系方式
 ===
 
-- 新浪微博:[Guovz](http://www.weibo.com/guovz/)
-- github:[Guovz](https://github.com/guovz)
-- Email:[pzhuwjl@qq.com](pzhuwjl@qq.com)
+- 新浪微博:[quanchn](http://www.weibo.com/quanchn/)
+- github:[bioquan](https://github.com/bioquan)
+- Email:[xuquan@sjtu.edu.cn](xuquan@sjtu.edu.cn)

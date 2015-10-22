@@ -3,9 +3,9 @@
 
 pithy是一款适用于jekyll的博客应用主题，基于bootstrap前端框架开发。本着简约的视觉效果设计，目的是希望博客的浏览者能够更多的看到博客内容。
 
-完成pithy的同时，我也搭建了自己的博客:
+我搭建的自己的博客:
 
-地址: [http://www.guovz.com](http://www.guovz.com)
+地址: [http://www.biospring.com](http://www.biospring.com)
 
 使用说明
 ===
@@ -31,8 +31,8 @@ pithy是一款适用于jekyll的博客应用主题，基于bootstrap前端框架
 
 在你浏览或使用本主题时，发现问题或者是有好的建议，希望能够在这里给予反馈。
 
-[New Issue](https://github.com/guovz/pithy/issues/new)
+[New Issue](https://github.com/bioquan/pithy/issues/new)
 
 License
 ===
-[MIT License](https://github.com/guovz/pithy/blob/gh-pages/LICENSE.md)
+[MIT License](https://github.com/bioquan/pithy/blob/gh-pages/LICENSE.md)
