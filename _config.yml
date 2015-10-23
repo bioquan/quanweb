@@ -20,7 +20,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: ""
+baseurl: "http://bioquan.github.io/quanweb/"
 url: "http://bioquan.github.io/quanweb/"
 
 
